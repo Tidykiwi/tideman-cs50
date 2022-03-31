@@ -5,8 +5,8 @@ Completed as part of studying CS50 - Introduction to Computer Science from Harva
 
 Implement a program that runs a Tideman election, per the below.<br>
 
-./tideman Alice Bob Charlie
-Number of voters: 5
+./tideman Alice Bob Charlie<br>
+Number of voters: 5<br>
 Rank 1: Alice
 Rank 2: Charlie
 Rank 3: Bob
