@@ -2,8 +2,8 @@
 Console application that runs a "ranked-pairs" style election.<br><br>
 Completed as part of studying CS50 - Introduction to Computer Science from Harvard University<br><br>
 
-In a ranked-choice system, voters can vote for more than one candidate. Instead of just voting for their top choice, they can rank the candidates in order of preference.<br>
-A “Condorcet winner” of an election is the person who would have won any head-to-head matchup against another candidate.<br>
+In a ranked-choice system, voters can vote for more than one candidate. Instead of just voting for their top choice, they can rank the candidates in order of preference. Here, each voter, in addition to specifying their first preference candidate, can also indicate their second and third choices. <br>
+In such an election, a “Condorcet winner” of an election is the person who would have won any head-to-head matchup against another candidate.<br>
 
 The Tideman voting method (also known as “ranked pairs”) is a ranked-choice voting method that’s guaranteed to produce the Condorcet winner of the election if one exists.
 
